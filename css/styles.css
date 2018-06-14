@@ -1,0 +1,51 @@
+img,
+embed,
+object,
+video {
+    max-width: 100%;
+}
+
+.large-image {
+    width: 1140px;
+}
+
+#cloud-logo {
+    width: 200px;
+    padding-top: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    width: 100%;
+    color: blue;
+    background-color: blue;
+}
+
+.thumbnail {
+    height: 600px;
+    border: 0;
+}
+
+.name {
+    font-size: 50px;
+    text-align: right;
+}
+
+.title {
+    text-align: right;
+    font-variant: small-caps;
+    font-size: 200%;
+}
+
+.caption {
+    text-align: center;
+}
+
+.portfolio-link {
+    font-size: 100%;
+}
